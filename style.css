@@ -59,10 +59,10 @@ html {
     color: #5f819d;
   }
 
-    img {
+    video {
       border: 2px solid #313131;
       height: auto;
       object-fit: cover;
       object-position: 50% 100%;
-      width: 15em;
+      width: 10em;
     }
