@@ -16,13 +16,15 @@ html {
     padding: 1em;
   }
 
-  form {
+  h1 {
     font-size: 2em;
     grid-column: 1 / -1;
     margin: 0;
     text-align: center;
     color: #a54242;
   }
+
+form {bg-color: #aaaaaa;}
 
   a {
     color: #aaaaaa;
